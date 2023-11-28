@@ -13,3 +13,11 @@ Visualization: Intuitive charts and graphs for insightful analysis of water-rela
 Evaluation Metrics: Comprehensive evaluation metrics to assess model performance.
 
 Scalability: Design considerations for scalability, allowing adaptation to different datasets.
+
+# Algorithm Performance:
+
+Support Vector Machine (SVM): Achieved an impressive 88% accuracy in water prediction.
+
+Decision Tree: Demonstrated strong performance with a 95% accuracy rate.
+
+Random Forest: Our best-performing algorithm, reaching an accuracy of 96%.
